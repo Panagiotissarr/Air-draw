@@ -1,4 +1,4 @@
-# 🖐️ Air Draw v4.1 (Classic Edition)
+# 🖐️ Air Draw v4.1
 
 Air Draw is a real-time, computer vision-based drawing application that turns your hands into a digital canvas. Using MediaPipe and OpenCV, it tracks hand gestures to allow for free-hand drawing, geometric line baking, and intuitive tool toggling without touching a mouse or keyboard.
 # ✨ Features
