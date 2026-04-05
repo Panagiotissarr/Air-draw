@@ -21,7 +21,7 @@ Air Draw is a real-time, computer vision-based drawing application that turns yo
 1. Clone the repository
 Bash
 
-git clone https://github.com/YourUsername/Air-Draw.git
+git clone https://github.com/Panagiotissarr/Air-Draw.git
 cd Air-Draw
 
 2. Set up the Environment
